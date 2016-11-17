@@ -6,7 +6,7 @@ from setuptools import find_packages
 
 setup(
     name='tompytools',
-    version='0.0.2',
+    version='0.0.3',
     description='Tom\'s python3 functions',
     url='https://github.com/TomHarrop/py3_utils',
     author='Tom Harrop',
